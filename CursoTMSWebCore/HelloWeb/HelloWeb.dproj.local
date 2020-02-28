@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/28 16:52:58.000.255,=D:\alexa\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.html</Transaction>
+    <Transaction>2020/02/28 16:53:01.000.116,=D:\alexa\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/28 16:55:44.000.409,D:\alexa\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Delphi\Projetos\CursoTMSWebCore\HelloWorld\MainForm.dfm</Transaction>
+    <Transaction>2020/02/28 16:55:44.000.409,D:\alexa\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.html=D:\Delphi\Projetos\CursoTMSWebCore\HelloWorld\MainForm.html</Transaction>
+    <Transaction>2020/02/28 16:55:44.000.409,D:\alexa\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Delphi\Projetos\CursoTMSWebCore\HelloWorld\MainForm.pas</Transaction>
+    <Transaction>2020/02/28 16:56:00.000.919,D:\alexa\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.html=D:\Delphi\Projetos\CursoTMSWebCore\HelloWorld\index.html</Transaction>
+    <Transaction>2020/02/28 16:56:10.000.861,D:\alexa\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Delphi\Projetos\CursoTMSWebCore\HelloWorld\HelloWeb.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
